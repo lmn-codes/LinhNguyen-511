@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Welcome to my space 👋
+### Btw, You look amazing today :heart_eyes:
 <!--
 **LinhNguyen-511/LinhNguyen-511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m working on a social network for cryptocurrencies enthusiasts
+- 🌱 I’m currently learning the MERN stack 
+- ⚡ Fun fact: I made a website where you can randomize cat pictures and learn about different breeds of cat 
+  - Here: https://linhnguyen-511.github.io/cat-website/#/
+
+- :computer: At work, I creates custom themes, scripts and modules for Magento webshops
+- 📫 Reach me at: mlinhng05@gmail.com
+- :woman: Pronouns: she/her
+
