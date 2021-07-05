@@ -1,5 +1,4 @@
 # Welcome to my space 👋
-### Btw, You look amazing today :heart_eyes:
 <!--
 **LinhNguyen-511/LinhNguyen-511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
