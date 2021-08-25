@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m working on a social network for cryptocurrencies enthusiasts
+- 🔭 I’m working on a [social network for cryptocurrencies enthusiasts](https://github.com/LinhNguyen-511/the-social)
 - 🌱 I’m currently learning the MERN stack 
 - ⚡ Fun fact: I made a website where you can randomize cat pictures and learn about different breeds of cat 
   - Here: https://linhnguyen-511.github.io/cat-website/#/
