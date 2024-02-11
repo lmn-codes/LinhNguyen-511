@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m working on a [social network for cryptocurrencies enthusiasts](https://github.com/LinhNguyen-511/the-social)
-- 🌱 I’m currently learning the MERN stack 
+- 🔭 I’m working on a notion-like blog app
+- 🌱 I’m currently learning Go and backend development 
 - ⚡ Fun fact: I made a website where you can randomize cat pictures and learn about different breeds of cat 
   - Here: https://linhnguyen-511.github.io/cat-website/#/
 
-- :computer: At work, I creates custom themes, scripts and modules for Magento webshops
 - 📫 Reach me at: mlinhng05@gmail.com
 - :woman: Pronouns: she/her
 
